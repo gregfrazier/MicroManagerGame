@@ -56,7 +56,7 @@
 		    that.playerSprite = clone(Player);		    
 		    that.coffeeSprite = clone(CoffeePot);
 		    that.doorSprite = new Image();
-		    that.doorSprite.src = 'door.png';
+		    that.doorSprite.src = 'Content/door.png';
 		    
 		    that.employees = [];
 		    that.work = [];
