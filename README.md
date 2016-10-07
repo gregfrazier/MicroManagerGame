@@ -1,6 +1,8 @@
 # MicroManagerGame
 JavaScript + Canvas + Pixel Art + Game&amp;Watch = Micro Manager The Game
 
+![alt tag](https://raw.githubusercontent.com/gregfrazier/MicroManagerGame/master/sample.png)
+
 In this game you are a manager of the micro-kind. You really like to keep your subordinates in line by visiting them at their desk constantly and giving them as much work as you can, even if you have make it up. No, you don't have task management software and even if you did, you don't have time to learn that crap, you have MANAGEMENT to do!
 
 In this microworld, every second that goes by in realtime is a minute to your employees. It's 4:59PM, nearly quitting time, but you want that bonus this year so you need to make your employees stay late as possible. They are sneaky though and will leave immediately after finishing their work, so keep them piled up for the next hour (60 seconds in realtime.)
